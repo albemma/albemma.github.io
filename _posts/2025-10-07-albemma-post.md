@@ -1,8 +1,3 @@
----
-title: "1.0"
-date: 2025-10-07
----
-
 ## This is my first blog post
 hello world, I am trying to create my window
 
