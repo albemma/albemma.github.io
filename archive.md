@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Light and matter
-
+permalink: /blog/
 ---
 
 {% for tag in site.tags %}
