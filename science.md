@@ -6,7 +6,6 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-{% include battiato.html %}
 
 ## Education
 - Ph.D. in Physics — University of Somewhere
