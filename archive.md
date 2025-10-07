@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog Posts
+title: Light and matter
+
 ---
 
 {% for tag in site.tags %}
