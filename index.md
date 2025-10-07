@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+No Time, No Space.
 
-Maybe say a some things about yourself.
+Another Race of Vibrations.
 
-Or maybe what you plan to blog about.
+The sea of the simulation.
+ - Franco Battiato https://www.youtube.com/watch?v=-Y44YzIODw0
