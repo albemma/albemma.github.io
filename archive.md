@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Lightogrphy
 ---
 
 {% for tag in site.tags %}
