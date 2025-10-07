@@ -1,9 +1,4 @@
-## This is my first blog post
-hello world, I am trying to create my window
+## Bread at home
+Making bread is not just a matter of following instructions, it involves a light-year of patience, a pinch of metheorology and the resilience to be surprised.
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
 `in line code`
