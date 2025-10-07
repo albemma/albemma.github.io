@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Science and beyond
-permalink: /cv/
+permalink: /science/
 ---
 
 # Here is my most updated CV
