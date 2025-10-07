@@ -6,11 +6,11 @@ permalink: /science/
 
 # Here is my most updated CV
 
-Here is my most updated CV
+where is it?
 
 ## Check out my Publications
 This is my [inspire page](https://inspirehep.net/authors/2057967) 
-## What do I actually do about this?
+## How do I actually do what I do?
 From the bar magnet’s north‐south polarity to the dual description of electric current as moving charges or as a magnetic field, nature repeatedly presents us with pairs of complementary yet mutually exclusive pictures. In classical electrodynamics, for instance, the magnetic field lines encircling a current‐carrying wire and the microscopic motion of electrons are two sides of the same coin, yet each description highlights different features of the underlying physics. Similarly, the advent of quantum mechanics revealed the wave–particle duality of matter: electrons can exhibit interference patterns one moment and localized impacts the next, defying any single, self‐consistent classical picture. These dichotomies—classical vs. quantum, field vs. particle—serve both as signposts to deeper unification and as reminders of the conceptual gaps that remain in our understanding of physical reality.
 
 This pattern of dual description extends beyond phenomena to the very frameworks we use to model them. Relativistic field theories and particle‐based approaches each capture important regimes of high‐energy interactions, yet reconciling them in a single formalism remains an outstanding challenge. Likewise, the choice between a 3+1 canonical split of spacetime and a fully covariant treatment reflects two complementary strategies for encoding dynamics, each with its own technical and interpretational trade‐offs. In model building one may adopt a “top‐down” approach—starting from a candidate fundamental Lagrangian and deducing low‐energy consequences—or a “bottom‐up” methodology, inferring new interactions from experimental anomalies and then seeking an overarching principle to accommodate them. Further schisms arise in whether one treats spacetime and matter as ultimately discrete or as smooth continua, and whether the properties we observe emerge from deeper structures or are themselves fundamental.
@@ -22,4 +22,4 @@ The quest for quantum gravity epitomizes this tension. Top-down approaches, such
 These persistent dichotomies point toward a common theme: our current theoretical landscape is fractured into complementary viewpoints, each illuminating some aspects of physical law while remaining silent on others. The task of a unified description is not merely to choose one paradigm over the other, but to understand the bridges between them—how discreteness gives rise to continuum behavior, how emergent phenomena can encode fundamental symmetries, and how different spacetime decompositions can coexist within a covariant whole. Only by developing a framework that respects the insights of each description we can hope to fill the conceptual gaps that dichotomies expose.
 
 
-In the case where there is controversy, the alternative attitude to conflict is collaboration. This is the way I have been taking during my research experience. Progress lies not in privileging one approach over others, but in fostering dialogue between them.
+# In the case where there is controversy, the alternative attitude to conflict is collaboration. This is the way I have been taking during my research experience. Progress lies not in privileging one approach over others, but in fostering dialogue between them.
