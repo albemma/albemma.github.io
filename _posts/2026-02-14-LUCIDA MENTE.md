@@ -27,6 +27,7 @@ e mi ritrovo a volare in libertà
 oltre i confini di veli interstellari
 cerco la luce che mi permetta di amare (LALALALAA)
 
+CHORUS
 </pre>
 <audio controls>
   <source src="/main/recordings/lucidamente.m4a" type="audio/mp4">
