@@ -28,3 +28,4 @@ oltre i confini di veli interstellari
 cerco la luce che mi permetta di amare (LALALALAA)
 
 </pre>
+[Listen to the recording](./recordings/lucida mente.mp4)
