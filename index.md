@@ -1,3 +1,8 @@
+
+
+<p align="right">
+  <img src="./images/helome.png" width="300">
+</p> 
 No Time, No Space.
 
 Another Race of Vibrations.
@@ -6,4 +11,3 @@ The sea of the simulation.
  - [Franco Battiato](https://www.youtube.com/watch?v=-Y44YzIODw0)
 
 
-![it's me](./images/Screenshot 2024-04-12 at 17.23.02.png)
