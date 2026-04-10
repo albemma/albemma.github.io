@@ -28,4 +28,7 @@ oltre i confini di veli interstellari
 cerco la luce che mi permetta di amare (LALALALAA)
 
 </pre>
-[Listen to the recording](./recordings/lucida mente.mp4)
+<audio controls>
+  <source src="/main/recordings/lucidamente.m4a" type="audio/mp4">
+Your browser does not support the audio element.
+</audio>
