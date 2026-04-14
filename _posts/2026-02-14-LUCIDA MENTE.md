@@ -29,7 +29,8 @@ cerco la luce che mi permetta di amare (LALALALAA)
 
 CHORUS
 </pre>
-<audio controls>
-  <source src="./main/recordings/lucidamente.m4a" type="audio/mp4">
-Your browser does not support the audio element.
-</audio>
+<p align="center">
+  <audio controls>
+    <source src="https://raw.githubusercontent.com/albemma/albemma.github.io/main/recordings/lucidamente.m4a" type="audio/mp4">
+  </audio>
+</p>
